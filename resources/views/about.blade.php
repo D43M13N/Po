@@ -1,5 +1,5 @@
 <p>
-over mij
+over mij nu he
 
 Ik ben in 2016 als geslaagd als student van de coding school le Wagon! dit was een hele leuke tijd waar ik extreem veel heb geleerd in een relatief korte periode.
 nu wil ik van mijn hobby mijn werk maken. Werken met computers is wat ik het allerliefst doe. van hardware tot software. ik vind technologie gewoon heel interessant.
