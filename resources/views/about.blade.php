@@ -1,6 +1,5 @@
 <p>
-over mij nu he
-
+over mij 
 Ik ben in 2016 als geslaagd als student van de coding school le Wagon! dit was een hele leuke tijd waar ik extreem veel heb geleerd in een relatief korte periode.
 nu wil ik van mijn hobby mijn werk maken. Werken met computers is wat ik het allerliefst doe. van hardware tot software. ik vind technologie gewoon heel interessant.
 ik heb ook mijn eigen computer zelf samen gesteld en meerdere OS systemen geinstalleerd ik vind het zelf fijn om te werken met linux! en ook om lekker vanaf mijn telefoon op de bank te programmeren met termux.
@@ -12,5 +11,6 @@ een ontstekingsbron voor nodig is. daar droom ik van!
 
 
 momenteel ben ik bekend met de talen php en ruby. en leer ik dagelijks nog bij. 
+ik doe wat extra aanpassingen
 
 </p>
