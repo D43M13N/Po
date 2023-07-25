@@ -8,6 +8,7 @@ $today = date("j F Y");
 ?>
 
 <p>
+    nog een aanpassing
 
     Mijn naam is Rafael en ik ben een junior webdeveloper. ik ben bekend met de talen ruby, on rails, php, laravel, html, css, een beetje javascript en ik ben nog van 
     plan om meer te leren.
